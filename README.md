@@ -1,5 +1,5 @@
 # Weight-height-breastfeeding-patterns-in-infants
-According to the World Health Organisation, Breastfeeding is one of the most effective ways to ensure child health and survival. This work is investigate whether breastfeeding affects both heights and weights in infant. The data source is from:   https://www.kaggle.com/datasets/chidirolex/weightheight-and-breastfeeding-pattern-of-infants       
+According to the World Health Organisation, Breastfeeding is one of the most effective ways to ensure child health and survival. This work is investigate whether breastfeeding affects both heights and weights in infants. The data source is from:   https://www.kaggle.com/datasets/chidirolex/weightheight-and-breastfeeding-pattern-of-infants       
 
 WHO recommendations, fewer than half of infants under 6 months old are exclusively breastfed.
 Breastmilk is the ideal food for infants. It is safe, clean and contains antibodies which help protect against many common childhood illnesses. Breastmilk provides all the energy and nutrients that the infant needs for the first months of life, and it continues to provide up to half or more of a child’s nutritional needs during the second half of the first year, and up to one third during the second year of life. 
