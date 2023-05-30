@@ -9,3 +9,6 @@ About The Dataset
 This data was collected from Braithwaite Memorial Specialist Hospital in Port Harcourt, Rivers State Nigeria back in 2015. The data contains information on four ways of breastfeeding babies and how it affects their growth and these include; Exclusive Breastfeeding, Breastfeeding with water, Partial Breastfeeding, and No Breastfeeding.
 
 30 babies were selected for each feeding method, making 120 babies. The height and weight of each baby were measured in their first to sixth months. By looking at these measurements, anyone could understand how each feeding method influenced the babies' growth over those six months.
+
+
+![bfeeding](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/eee9ccfb-97fd-4411-a14d-8a1b18efe1b4)
