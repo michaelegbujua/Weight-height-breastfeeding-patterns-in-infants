@@ -12,3 +12,5 @@ This data was collected from Braithwaite Memorial Specialist Hospital in Port Ha
 
 
 ![bfeeding](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/eee9ccfb-97fd-4411-a14d-8a1b18efe1b4)
+Photo Source: https://www.washingtonpost.com/wellness/2022/12/12/pregnant-nursing-toddler/
+
