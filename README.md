@@ -42,6 +42,11 @@ Contextual Interpretation
 
 
 
-#Analysis
+#DASHBOARD
+
+The  Infant growth and breastfeeding patterns dashboard is shown below. (*Also note that the PBIX file is on this page You may freely download touse the dashboard).
+
+![Dashboard](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/c0e6cc94-9e88-4d34-b1c3-62cf2a8b4fe9)
+
 
 
