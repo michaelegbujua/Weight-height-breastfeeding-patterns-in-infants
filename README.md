@@ -15,6 +15,7 @@ This data was collected from Braithwaite Memorial Specialist Hospital in Port Ha
 Photo Source: https://www.washingtonpost.com/wellness/2022/12/12/pregnant-nursing-toddler/
 
 #Aim
+
 the project aims to provide healthcare providers with valuable insights on how to support breastfeeding mothers. The project addresses the following research questions:
 
 Are there any correlations between breastfeeding patterns and height?
@@ -24,6 +25,7 @@ How does the distribution of height and weight vary across different months?
 
 
 #Data Cleaning
+
 The Data was almost pre-processed from source, meaning that there was no regorous cleansing of the data (all the mess have been cleaned from kaggle) except for slight data transformations, filtering to remove blanks and ensuring that data type for each column fits in well. 
 
 #Tools Employed:
