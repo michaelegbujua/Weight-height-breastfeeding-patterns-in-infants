@@ -33,10 +33,10 @@ The Data was almost pre-processed from source, meaning that there was no regorou
 Excel (Source file), Power BI
 The use of Power BI to analyze breastfeeding and infant growth patterns reveals a range of competencies. The following are the main abilities shown in this analysis:
 
-Data Transformation
-Reporting and Dashboard Creation
-Data Visualization
-Insight Generation
+Data Transformation, 
+Reporting and Dashboard Creation, 
+Data Visualization, 
+Insight Generation, and 
 Contextual Interpretation
 
 
@@ -49,4 +49,5 @@ The  Infant growth and breastfeeding patterns dashboard is shown below. (*Also n
 ![Dashboard](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/c0e6cc94-9e88-4d34-b1c3-62cf2a8b4fe9)
 
 
+#ANALYSIS
 
