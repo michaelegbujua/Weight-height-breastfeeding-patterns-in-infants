@@ -30,7 +30,7 @@ The Data was almost pre-processed from source, meaning that there was no regorou
 
 # Tools Employed:
 
-Excel (Source file), Power BI
+Excel (Source file), Power BI, Jupyter notebook with python (Alternatively)
 The use of Power BI to analyze breastfeeding and infant growth patterns reveals a range of competencies. The following are the main abilities shown in this analysis:
 
 Data Transformation, 
