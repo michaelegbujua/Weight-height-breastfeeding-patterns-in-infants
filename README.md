@@ -51,3 +51,14 @@ The  Infant growth and breastfeeding patterns dashboard is shown below. (*Also n
 
 # ANALYSIS
 
+
+# Average weight by breastfeeding pattern
+
+
+![Average_weight_by_breastfeeding_pattern](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/6894f8b2-2910-4584-97b7-294604060b7a)
+
+The following conclusions can be drawn from the analysis of the influence of breastfeeding practices on weight using a bar chart:
+
+(1) The greatest average weight among the breastfeeding patterns taken into consideration is for Breastfeeding and Water (6.35kg). It implies that babies who receive both breastfeeding and water have a tendency to weigh a little bit more than babies who receive either one alone.
+
+(2) Babies exclusively breastfed had a slightly lower average weight (6.26 kg) than babies exclusively breastfed in conjunction with water. This implies that the addition of water when breastfeeding may cause a small gain in weight.
