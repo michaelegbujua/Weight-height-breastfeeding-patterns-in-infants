@@ -44,7 +44,7 @@ Contextual Interpretation
 
 # DASHBOARD
 
-The  Infant growth and breastfeeding patterns dashboard is shown below. (*Also note that the PBIX file is on this page You may freely download touse the dashboard).
+The  Infant growth and breastfeeding patterns dashboard is shown below. (*Also note that the PBIX file is on this page You may freely download touse the dashboard). Alternatively, a jupyter notebook containing the python code for this analysis is also included.
 
 ![Dashboard](https://github.com/michaelegbujua/Weight-height-breastfeeding-patterns-in-infants/assets/40715460/c0e6cc94-9e88-4d34-b1c3-62cf2a8b4fe9)
 
@@ -62,3 +62,7 @@ The following conclusions can be drawn from the analysis of the influence of bre
 (1) The greatest average weight among the breastfeeding patterns taken into consideration is for Breastfeeding and Water (6.35kg). It implies that babies who receive both breastfeeding and water have a tendency to weigh a little bit more than babies who receive either one alone.
 
 (2) Babies exclusively breastfed had a slightly lower average weight (6.26 kg) than babies exclusively breastfed in conjunction with water. This implies that the addition of water when breastfeeding may cause a small gain in weight.
+
+(3) Average Weight for Partial Breastfed Babies (6.17kg): Babies who are partially breastfed typically weigh less than those who are exclusively breastfed as well as those who are breastfed according to the water pattern. This suggests that supplementing breast milk with non-breast milk substances like formula or solid foods may have a negligible effect on weight loss.
+
+(4) The average weight of infants who are not breastfed (5.39 kg) is the lowest of the breastfeeding patterns examined. It implies that, compared to nursing habits, not breastfeeding and relying only on non-breast milk alternatives, such as formula feeding, may result in a significant loss of weight.
